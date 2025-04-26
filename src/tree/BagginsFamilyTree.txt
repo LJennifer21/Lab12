@@ -13,3 +13,7 @@ Ponto2:Angelica
 Fosco:Dora,Drogo,Dudo
 Drogo:Frodo
 Dudo:Daisy
+Daisy:Lucero
+Lucero:Adela
+Adela:Julio
+Julio:Jennifer, Erkia
